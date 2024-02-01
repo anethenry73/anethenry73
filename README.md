@@ -2,7 +2,7 @@ hello 👋 am Aneth Josephati am interested in web development using JavaScript,
 currently learning php, html and css
 my dream is to be a full stack developer
 i work collaborative with other developers
- contact me with my phone number 0652722557 or my email is anethenry73@gmail.com
+ contact me 0652722557 or my email anethenry73@gmail.com
  thank you 🙏🙏
 
 <!---
